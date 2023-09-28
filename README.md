@@ -1,5 +1,5 @@
 ### Interest
-numerical modeling, optics, computational methods 
+numerical modeling, optics, computational methods, computational neuroscience
 
 <!--
 **fergplace/fergplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
